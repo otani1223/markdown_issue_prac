@@ -36,6 +36,8 @@
 
 ウェブ関連技術の標準化は [World Wide Web Consortium (W3C)](http://www.w3.org/) などによって行われています。
 
+### 画像リンク
+
 [アイコン](images/face.jpg)
 
 
@@ -51,3 +53,14 @@ public static void main(String []){
     system.out.println("ハロー池崎");
 }
 ```
+
+### 水平線
+***
+
+### 表
+
+|見出し1|見出し2 |
+| -- | -- |
+| 内容1-1 | 内容2-1|
+| 内容1-2 | **内容2-2** |
+
