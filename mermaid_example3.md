@@ -1,6 +1,6 @@
-# フローチャートの記述
+# フローチャートのチュートリアル
 
- ```
+```
 graph LR;
 enter[入店];
 consider[検討];
@@ -15,7 +15,7 @@ confirm -- 無し --> consider;
 confirm -- 有り --> cook;
 cook --> serve;
 ```
-    
+
  ```mermaid
 graph LR;
 enter[入店];
